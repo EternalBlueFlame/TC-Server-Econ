@@ -1,0 +1,6 @@
+sells=japaneseguardboots,japaneseguardHelmet,japaneseguardLegs,japaneseguardPlate,japanesewarriorblueboots,japanesewarriorblueHelmet,japanesewarriorblueLegs,japanesewarriorbluePlate,japanesewarriorredboots,japanesewarriorredHelmet,japanesewarriorredLegs,japanesewarriorredPlate,tachisword,yumibow,manyullyn,aluminum,mossball,redstone,lapis,obsidian,gold,lapis,redstone,glowdust,pixelaluminium,diamond
+buys=iron,leather,manyullyn,aluminum,mossball,redstone,lapis,obsidian,gold,lapis,redstone,glowdust,pixelaluminium,diamond
+
+
+
+

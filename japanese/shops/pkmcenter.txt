@@ -1,0 +1,2 @@
+sells=pokeball,greatball,ultraball,potion,superpotion,hyperpotion,fullrestore,revive,maxrevive,maxether,hpup,protein,pixeliron,calcium,zinc,carbos,goodrod,superrod,itemfinder,fullheal
+buys=pokeball,greatball,ultraball,potion,superpotion,hyperpotion,fullrestore,revive,maxrevive,maxether,hpup,protein,pixeliron,calcium,zinc,carbos,goodrod,superrod,itemfinder,fullheal
