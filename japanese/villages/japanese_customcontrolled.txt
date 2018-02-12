@@ -42,7 +42,6 @@ core:japanesehut
 core:japanesehouse
 core:japanesehousemedium
 core:japanesehouselarge
-core:pokemoncm
 
 
 customBuilding:custom_japaneselmh

@@ -1,3 +1,0 @@
-native:Pokemon Center;name_en:Pokemon Center;name_fr:Pokemon Center;around:4;startLevel:-1;orientation:3;width:12;length:18;male:japanese_martkeeper;female:japanese_PeasantWife;shop:pkmcenter;moveinpriority:20
-
-pathlevel:1

@@ -1,2 +1,2 @@
-sells=steelAxe,steelPickaxe,steelShovel,steelHoe,manyullyn,aluminum,mossball,redstone,lapis,obsidian,gold,lapis,redstone,glowdust,pixelaluminium,diamond
-buys=iron,manyullyn,aluminum,mossball,redstone,lapis,obsidian,gold,lapis,redstone,glowdust,pixelaluminium,diamond
+sells=steelAxe,steelPickaxe,steelShovel,steelHoe
+buys=iron
