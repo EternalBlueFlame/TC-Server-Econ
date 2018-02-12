@@ -50,7 +50,13 @@ mayanpickaxe,0,7*64,0,0, 0,false,,0,tradehelp.generictools
 mayanaxe,0,7*64,0,0, 0,false,,0,tradehelp.generictools
 mayanshovel,0,7*64,0,0, 0,false,,0,tradehelp.generictools
 mayanhoe,0,7*64,0,0, 0,false,,0,tradehelp.generictools
+parchmentMayanVillagers,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentMayanBuildings,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentMayanItems,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentMayanComplete,64,0,0,0,0,true,,0,tradehelp.parchments
 
+maize,3,2,16,32,3,false,,0,tradehelp.mayanfood
+mayangold,64,60,0,512,,,,2*64*64,tradehelp.mayangold
 
 //------------------------------------------------------------
 //norman specific
@@ -64,12 +70,32 @@ normanPickaxe,0,10*80,0,0,,,,0,tradehelp.generictools
 normanAxe,0,10*80,0,0,,,,0,tradehelp.generictools
 normanShovel,0,10*80,0,0,,,,0,tradehelp.generictools
 normanHoe,0,10*80,0,0,,,,0,tradehelp.generictools
-
+parchmentVillagers,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentBuildings,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentItems,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentComplete,64,0,0,0,0,true,,0,tradehelp.parchments
+tapestry,5*64,0,0,0,10*64,,,2*64*64,tradehelp.normantapestry
+timberframe_plain,16,0,0,1024,0,false,0,0,tradehelp.normantimberframes
+timberframe_cross,20,0,0,512,0,false,0,0,tradehelp.normantimberframes
+yddrasilAmulet,0,0,0,0,32*64
+skollHatiAmulet,0,0,0,0,64*64
+painting,0,0,0,0,32
+bottle,5,0,16,64, 0,false,,0,tradehelp.normanalchemy
+netherwart,32,0,16,64, 0,false,,0,tradehelp.normanalchemy
+akwardpotion,48,0,16,64,0,false,,0,tradehelp.normanalchemy
 
 //------------------------------------------------------------
 //hindi specific
 //------------------------------------------------------------
+parchmentIndianVillagers,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentIndianBuildings,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentIndianItems,10,0,0,0,0,true,,0,tradehelp.parchments
+parchmentIndianComplete,64,0,0,0,0,true,,0,tradehelp.parchments
 
+mudbrick,4,3,0,2048,0,false,,0,tradehelp.hindibricks
+cookedbrick,6,5,0,2048,0,false,,0,tradehelp.hindibricks
+brickmould,64,0,0,0,0,true,,0,tradehelp.hindibricks
+indianstatue,5*64,0,0,0,,,,2*64*64,tradehelp.hindistatue
 
 //------------------------------------------------------------
 //byzentine specific
@@ -79,6 +105,15 @@ byzantineHelmet,0,12*64,0,0, 0,false,,0,tradehelp.genericweapon
 byzantinePlate,0,20*64,0,0, 0,false,,0,tradehelp.genericweapon
 byzantineLegs,0,8*64,0,0, 0,false,,0,tradehelp.genericweapon
 byzantineBoots,0,6*64,0,0, 0,false,,0,tradehelp.genericweapon
+grapes,1,1,0,512,2,false,,0,tradehelp.byzantinewine
+silk,0,20,0,20,30,false,,0,tradehelp.byzantinesilk
+painting,32,0,0,0,48,false,,0,tradehelp.byzantinesilk
+byzantineiconsmall,3*64,3*64,0,16,5*64,false,,0,tradehelp.byzantinesilk
+byzantineiconmedium,5*64,5*64,0,8,7*64,false,,0,tradehelp.byzantinesilk
+byzantineiconlarge,8*64,8*64,0,4,10*64,false,,0,tradehelp.byzantinesilk
+clothes_byz_silk,4*64,0,0,2,6*64*64,false,,0,tradehelp.byzantineclothes
+clothes_byz_wool,1*64,0,0,4,6*64*64,false,,0,tradehelp.byzantineclothes
+byzantinetiles,16,14,0,1024,36,false,,0,tradehelp.byzantinetiles
 
 
 
@@ -163,6 +198,9 @@ diamondHoe,0,3*64*2,0,0, 0,false,,0,tradehelp.generictools
 //Seeds
 //------------------------------------------------------------
 seeds,2,1,0,0,2,false,,0,false,,0,tradehelp.seeds
+sapling,2,0,0,0,2
+sapling_pine,2,0,0,0,2
+sapling_birch,2,0,0,0,2
 
 
 //------------------------------------------------------------
@@ -311,6 +349,7 @@ fishraw,5,3,0,192,0,false,,0,tradehelp.genericfoodraw
 //------------------------------------------------------------
 //ingredients
 //------------------------------------------------------------
+salt,4,1,0,128,7,false,,0,tradehelp.wood
 
 
 //------------------------------------------------------------
@@ -319,6 +358,7 @@ fishraw,5,3,0,192,0,false,,0,tradehelp.genericfoodraw
 gunpowder,13,10,0,128,15,false,,0,tradehelp.wood
 rottenflesh,13,10,0,128,15,false,,0,tradehelp.wood
 spidereye,7,5,0,128,9,false,,0,tradehelp.wood
+bone,0,0,0,0,8
 
 //------------------------------------------------------------
 //domesticated goods
@@ -349,8 +389,25 @@ beeswax,9,6,0,128,12,false,,0,tradehelp.wood
 //------------------------------------------------------------
 //idk where to put this stuff
 //------------------------------------------------------------
-salt,4,1,0,128,7,false,,0,tradehelp.wood
 fishbait,1,1,0,64,2,true,,0,tradehelp.generictools
 resin,16,10,0,128,20,false,,0,tradehelp.wood
 book,70,53,0,0
 bookshelves,220,166,0,0,0,false,,0,tradehelp.genericbookshelves
+dye_white,0,0,0,0,32
+dye_orange,0,0,0,0,4
+dye_magenta,0,0,0,0,32
+dye_lightblue,0,0,0,0,64
+dye_yellow,0,0,0,0,4
+dye_green,0,0,0,0,20
+dye_pink,0,0,0,0,16
+dye_gray,0,0,0,0,24
+dye_lightgray,0,0,0,0,32
+dye_cyan,0,0,0,0,64
+dye_purple,0,0,0,0,48
+dye_blue,0,0,0,0,64
+dye_brown,0,0,0,0,16*64
+dye_red,0,0,0,0,4
+dye_black,0,0,0,0,8
+dye_lime,0,0,0,0,20
+redflower,10,0,0,0,8
+yellowflower,8,0,0,0,8
