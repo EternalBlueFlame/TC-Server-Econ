@@ -1,4 +1,11 @@
-//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, 0, minimum reputation
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated,,0, minimum reputation
+//name is defined via the itemlist.txt
+//shops must have more than the reserved quantity to sell the goods unless you have a crazy high rep with them.
+//at the target quantity they stop purchasing the goods
+//auto-generated means the city generates it from literally nothing.
+//the ",,0" is necessary to be like that.
+//minimum reputation can be numbers or the pointer values.
+//you can do multiplication for values, or the result value, so for example 2*64*64 and 8192 will both be 2 OR.
 
 //------------------------------------------------------------
 //Generic Village
